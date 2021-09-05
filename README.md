@@ -3,6 +3,10 @@
 - [Blog](https://velog.io/@nnnyeong)
 - Email <hwagae2003@gmail.com>
 
+## Career
+- LK Artwork 2021.02 - 2021.07
+  - iOS SW 개발 
+
 ## Skills
 - iOS
 - Swift
