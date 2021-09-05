@@ -1,7 +1,7 @@
 ## Portfolio
 - [Github](https://github.com/seonyoung169)
 - [Blog](https://velog.io/@nnnyeong)
-- <Eamil>(hwagae2003@gmail.com)
+- Eamil <hwagae2003@gmail.com>
 
 ## Skills
 - iOS
