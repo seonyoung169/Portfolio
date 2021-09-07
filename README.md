@@ -1,7 +1,7 @@
 ## Portfolio
 - [Github](https://github.com/seonyoung169)
 - [Blog](https://velog.io/@nnnyeong)
-- [Email]: hwagae2003@gmail.com "Email"
+- [Email](hwagae2003@gmail.com)
 
 ## Career
 - LK Artwork 2021.02 - 2021.07
