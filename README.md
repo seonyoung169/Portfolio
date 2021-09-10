@@ -23,6 +23,20 @@
   - 2016.03 - 2021.02 (졸업)
 
 ## Projects
+### Done List Clone App
+masssive viewcontroller 방지를 위한 App Store 'Done List' 앱 MVVM 적용 클론 코딩
+<br>
+- 진행 : 개인 프로젝트
+- 역할 
+  - iOS Application 개발
+- 기간 : 2021.08 - 
+- 사용 언어 및 관련 기술
+`Swift` `iOS` `Xcode` `SwiftyJson` `MVVM` `SQLite`
+- [Repository](https://github.com/seonyoung169/Done_List_Clone)
+
+<br>
+<br>
+
 ### UOrders
 유학생을 위한 교내 카페 사이렌 오더 시스템 Uorders 점주용 iOS 프로그램
 <br>
